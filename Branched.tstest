@@ -5,7 +5,6 @@
     "WebKitExecutionDelay": 0,
     "ReuseAppWindow": 0,
     "ProfilerResultsDirectory": null,
-    "ProfilerServerName": null,
     "ProfilerBenchmarkResultsFilePath": null,
     "ProfilerBenchmarkResultsId": "00000000-0000-0000-0000-000000000000",
     "ProfilerConfigurationId": "00000000-0000-0000-0000-000000000000",
@@ -39,7 +38,6 @@
                 "UseStepWaitOnElementsTimout": false,
                 "WaitOnElements": false,
                 "UsejQuery": false,
-                "UseBackupSearch": true,
                 "ClosesBrowser": false,
                 "AjaxTimeout": 0,
                 "Pause": 0,
@@ -92,7 +90,6 @@
                 "Encrypt": false,
                 "SupportUnicode": true,
                 "UsejQuery": true,
-                "UseBackupSearch": true,
                 "ClosesBrowser": false,
                 "AjaxTimeout": 0,
                 "Pause": 0,
@@ -129,7 +126,6 @@
                         }
                       },
                       "Frame": null,
-                      "FindInfo": null,
                       "FindExpression": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
@@ -218,7 +214,6 @@
                 "Encrypt": false,
                 "SupportUnicode": true,
                 "UsejQuery": true,
-                "UseBackupSearch": true,
                 "ClosesBrowser": false,
                 "AjaxTimeout": 0,
                 "Pause": 0,
@@ -255,7 +250,6 @@
                         }
                       },
                       "Frame": null,
-                      "FindInfo": null,
                       "FindExpression": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
@@ -331,7 +325,6 @@
               "__value": {
                 "SimulateRealClick": false,
                 "UsejQuery": true,
-                "UseBackupSearch": true,
                 "ClosesBrowser": false,
                 "AjaxTimeout": 0,
                 "Pause": 0,
@@ -368,7 +361,6 @@
                         }
                       },
                       "Frame": null,
-                      "FindInfo": null,
                       "FindExpression": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
@@ -443,7 +435,6 @@
                 "CompareType": 2,
                 "SegmentType": 3,
                 "ExpectedString": "Incorrect user/password",
-                "UseBackupSearch": true,
                 "DataBindVariableName": null,
                 "Timeout": 30000,
                 "CheckInterval": 500,
@@ -482,7 +473,6 @@
                         }
                       },
                       "Frame": null,
-                      "FindInfo": null,
                       "FindExpression": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
